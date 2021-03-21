@@ -9,4 +9,4 @@ Installation:
 pip install devXliff
 
 Demo:
-You may refer to https://github.com/vinayaksharmagh/devXliff/demo.py to look at basic usage of this library.
+You may refer to https://github.com/vinayaksharmagh/devXliff/blob/master/demo.py to look at basic usage of this library.
