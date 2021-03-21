@@ -1,0 +1,8 @@
+README.md
+setup.py
+devXliff/XLIFF.py
+devXliff/__init__.py
+devXliff.egg-info/PKG-INFO
+devXliff.egg-info/SOURCES.txt
+devXliff.egg-info/dependency_links.txt
+devXliff.egg-info/top_level.txt

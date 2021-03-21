@@ -1,0 +1,26 @@
+Metadata-Version: 2.1
+Name: devXliff
+Version: 1
+Summary: A simple library to facilitate the programatic creation of XLIFF files
+Home-page: https://github.com/vinayaksharmagh/devXliff
+Author: Vinayak Sharma
+Author-email: bplate3@gmail.com
+License: UNKNOWN
+Description:     XLIFF is a xml based standard that is commonly used in Computer Assisted Translation tools for data exchange.
+        
+            #Basic XLIFF structure is as follows# 
+            Root element is "xliff" which can have multiple "file" elements as 
+            children nodes (although in this library single "file" element  is being used for simplicity)
+            Each file have "header" and "body" elements as its children. 
+            Each body can have multiple children elements by the name "trans-unit"
+            Each "trans-unit" can have multiple children by the name "source" and "target" (former
+            for source language and latter for target languege
+            
+            In this library, this XLIFF heirarchy has been used to create XLIFF files.
+            You may refer to demo.py to look at basic consumption of this library.
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown

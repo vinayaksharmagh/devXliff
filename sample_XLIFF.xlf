@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+   <file datatype="plaintext" original="sample.txt" source-language="hi" tool-id="custom">
+      <header>
+         <skl>
+            <external-file href="sample.txt.skl"/>
+         </skl>
+      </header>
+      <body>
+         <trans-unit approved="yes" id="0" xml:space="preserve">
+            <source xml:lang="hi">वह एक अच्छी बेटी है</source>
+            <target xml:lang="en">She is a good daughter</target>
+         </trans-unit>
+         <trans-unit approved="yes" id="1" xml:space="preserve">
+            <source xml:lang="hi">मुझे बीकानेर बहुत पसंद है</source>
+            <target xml:lang="en">I love Bikaner</target>
+         </trans-unit>
+         <trans-unit approved="yes" id="2" xml:space="preserve">
+            <source xml:lang="hi">अजमेर खूबसूरत अरावली रेंज से घिरा हुआ है</source>
+            <target xml:lang="en">Ajmer is surrounded by the beautiful Aravali Range</target>
+         </trans-unit>
+      </body>
+   </file>
+</xliff>
